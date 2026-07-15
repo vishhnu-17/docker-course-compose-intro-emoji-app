@@ -9,3 +9,5 @@ goto github repo and select the repo called docker-course-compose-into-emoji-app
 in elastic bean stack application name emoji-tester it will auto pick env name -- runtime select Docker -- role create elastic beanstalk service role and s3 role to ec2instance profile -- vpc default --availability select any two zone -- security group default subnet default health check basic public ip address enabled managed updates uncheck env property ENV_FLASK - Development
 
 just update
+
+i have updated
