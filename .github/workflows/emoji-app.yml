@@ -39,8 +39,8 @@ jobs:
         aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
         aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         region: ap-south-1
-        application_name: emoji-tester
-        environment_name: Emoji-tester-env
+        application_name: myApp
+        environment_name: MyApp-env
         version_label: ${{ github.run_number }}-${{ github.sha }}
         deployment_package: deploy.zip
 
